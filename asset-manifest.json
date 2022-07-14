@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://soniaortiz.github.io/csb-6ld3il/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://soniaortiz.github.io/csb-6ld3il/static/js/main.b595a825.chunk.js",
+    "main.js.map": "https://soniaortiz.github.io/csb-6ld3il/static/js/main.b595a825.chunk.js.map",
+    "runtime-main.js": "https://soniaortiz.github.io/csb-6ld3il/static/js/runtime-main.b042905b.js",
+    "runtime-main.js.map": "https://soniaortiz.github.io/csb-6ld3il/static/js/runtime-main.b042905b.js.map",
+    "static/js/2.27364d19.chunk.js": "https://soniaortiz.github.io/csb-6ld3il/static/js/2.27364d19.chunk.js",
+    "static/js/2.27364d19.chunk.js.map": "https://soniaortiz.github.io/csb-6ld3il/static/js/2.27364d19.chunk.js.map",
+    "index.html": "https://soniaortiz.github.io/csb-6ld3il/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://soniaortiz.github.io/csb-6ld3il/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.27364d19.chunk.js.LICENSE.txt": "https://soniaortiz.github.io/csb-6ld3il/static/js/2.27364d19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b042905b.js",
+    "static/js/2.27364d19.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b595a825.chunk.js"
+  ]
+}
